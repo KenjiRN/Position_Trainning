@@ -1,0 +1,15 @@
+#container{
+    background-color: yellow;
+    height: 500px;
+    padding: 10px;
+    position: relative;
+}
+#conteudo{
+    background-color: tomato;
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% ,-50%);
+}
